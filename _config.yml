@@ -1,21 +1,24 @@
 nav:
   Home: /
-  About: /about/
-  Writing: /archives/
-  Projects: http://github.com/probberechts
+  Program Ape / 程序员: /categories/program-ape
+  Finance / $$$$: /categories/finance
+  Image Processing / 图像处理: /categories/image-processing
+  Life Tips / 生活贴士: /categories/life-tips
+  Book Digest / 好书摘要: /categories/book-digest
+  #Projects: http://github.com/ycshao
 
-projects_url: http://github.com/probberechts
+projects_url: http://github.com/ycshao
 
 customize:
     gravatar:
-        email: 
+        email:
     logo:
         enabled: true
         width: 50
         height: 50
         url: /images/logo.png
         gravatar: false
-    favicon: 
+    favicon:
       # eg. generate with http://realfavicongenerator.net/
       desktop:
         url: /images/favicon.ico
@@ -27,12 +30,12 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
-    post_count: 5
-    highlight: rainbow
+        github: http://github.com/ycshao
+        twitter: https://twitter.com/ycshao
+        facebook: https://www.facebook.com/ycshao0402
+        linkedin: https://www.linkedin.com/in/ycshao
+    post_count: 2000
+    highlight: solarized-dark.styl
 
 # RSS
 rss: false
