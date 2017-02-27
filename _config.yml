@@ -14,9 +14,9 @@ customize:
         email:
     logo:
         enabled: true
-        width: 50
-        height: 50
-        url: /images/logo.png
+        width: 70
+        height: 70
+        url: /images/logo.jpg
         gravatar: false
     favicon:
       # eg. generate with http://realfavicongenerator.net/
@@ -24,7 +24,7 @@ customize:
         url: /images/favicon.ico
         gravatar: false
       android:
-        url: /images/favicon-192x192.png
+        url: /images/fandroid-chrome-144x144.png
         gravator: false
       apple:
         url: /images/apple-touch-icon.png
