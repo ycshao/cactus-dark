@@ -1,10 +1,11 @@
 nav:
   Home: /
+  Cryptocurrency / 数字货币: /categories/cryptocurrency
   Program Ape / 程序员: /categories/program-ape
   Finance / $$$$: /categories/finance
   Image Processing / 图像处理: /categories/image-processing
   Life Tips / 生活贴士: /categories/life-tips
-  Book Digest / 好书摘要: /categories/book-digest
+  #Book Digest / 好书摘要: /categories/book-digest
   #Projects: http://github.com/ycshao
 
 projects_url: http://github.com/ycshao
