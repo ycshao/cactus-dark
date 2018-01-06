@@ -43,7 +43,7 @@ rss: rss2.xml # I configured hexo-generator-feed to generate rss2.xml.
 
 # Plugins
 plugins:
-    disqus_shortname: # Disqus Comments Shortname
+    disqus_shortname: blog-zvpzlfc5vv # Disqus Comments Shortname
     google_analytics: UA-97811930-1 # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
